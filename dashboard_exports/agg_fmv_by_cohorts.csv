@@ -1,43 +1,17 @@
-"avg_price","brand","mileage_cohort"
-16900.00,"acura","High (60k-100k)"
-19500.00,"audi","High (60k-100k)"
-19700.00,"bmw","High (60k-100k)"
-29400.00,"bmw","Low (2-30k)"
-13200.00,"buick","High (60k-100k)"
-22500.00,"buick","Low (2-30k)"
-27000.00,"buick","Medium (30k-60k)"
-27951.00,"cadillac","Low (2-30k)"
-18447.06,"chevrolet","High (60k-100k)"
-26066.31,"chevrolet","Low (2-30k)"
-25082.60,"chevrolet","Medium (30k-60k)"
-17040.00,"chevrolet","Very High (100k-150k)"
-26200.00,"chrysler","Low (2-30k)"
-19100.00,"chrysler","Medium (30k-60k)"
-10125.00,"dodge","High (60k-100k)"
-23771.12,"dodge","Low (2-30k)"
-18203.01,"dodge","Medium (30k-60k)"
-9775.00,"dodge","Very High (100k-150k)"
-18450.50,"ford","High (60k-100k)"
-27221.09,"ford","Low (2-30k)"
-23350.33,"ford","Medium (30k-60k)"
-12462.50,"ford","Very High (100k-150k)"
-40500.00,"gmc","Low (2-30k)"
-21400.00,"gmc","Medium (30k-60k)"
-9800.00,"hyundai","Medium (30k-60k)"
-18500.00,"infiniti","High (60k-100k)"
-19550.00,"jeep","Low (2-30k)"
-17500.00,"jeep","Medium (30k-60k)"
-13400.00,"kia","High (60k-100k)"
-17100.00,"kia","Low (2-30k)"
-12700.00,"kia","Medium (30k-60k)"
-46900.00,"land","Medium (30k-60k)"
-55600.00,"lexus","Low (2-30k)"
-36300.00,"lincoln","Low (2-30k)"
-30300.00,"maserati","Medium (30k-60k)"
-16000.00,"mazda","Medium (30k-60k)"
-62450.00,"mercedes-benz","Low (2-30k)"
-27433.33,"mercedes-benz","Medium (30k-60k)"
-13560.00,"nissan","High (60k-100k)"
-16780.28,"nissan","Low (2-30k)"
-13199.35,"nissan","Medium (30k-60k)"
-3500.00,"nissan","Very High (100k-150k)"
+"brand","mileage_cohort","listing_count","avg_price","price_change_prev_tier","pct_change_from_low"
+"chevrolet","Low (2-30k)",59,26066.31,NULL,0.00
+"chevrolet","Medium (30k-60k)",72,25082.60,-983.71,-3.77
+"chevrolet","High (60k-100k)",17,18447.06,-6635.54,-29.23
+"chevrolet","Very High (100k-150k)",5,17040.00,-1407.06,-34.63
+"dodge","Low (2-30k)",172,23771.12,NULL,0.00
+"dodge","Medium (30k-60k)",133,18203.01,-5568.11,-23.42
+"dodge","High (60k-100k)",6,10125.00,-8078.01,-57.41
+"dodge","Very High (100k-150k)",2,9775.00,-350.00,-58.88
+"ford","Low (2-30k)",382,27221.09,NULL,0.00
+"ford","Medium (30k-60k)",189,23350.33,-3870.76,-14.22
+"ford","High (60k-100k)",24,18450.50,-4899.83,-32.22
+"ford","Very High (100k-150k)",8,12462.50,-5988.00,-54.22
+"nissan","Low (2-30k)",71,16780.28,NULL,0.00
+"nissan","Medium (30k-60k)",116,13199.35,-3580.93,-21.34
+"nissan","High (60k-100k)",5,13560.00,360.65,-19.19
+"nissan","Very High (100k-150k)",1,3500.00,-10060.00,-79.14
